@@ -1,0 +1,18 @@
+NICE_GFX_3D
+Copyright (c) 2026 NICE_GFX contributors
+
+The project-owned library code and accompanying tools are licensed under the
+Apache License, Version 2.0. See LICENSE.
+
+This library is part of the nice gfx project:
+https://github.com/ailyProject/nice-gfx
+
+Third-party model assets, dependencies, upstream code and their modifications
+remain under their respective licenses. Preserve their applicable copyright,
+attribution, license and modification notices. See LICENSES/README.md and the
+notices distributed with each asset.
+
+The historical MIT grant for copies previously released under MIT is preserved
+in LICENSES/MIT-legacy.txt. It is not a second license for newly released code.
+
+This NOTICE contains attribution information and does not modify the License.

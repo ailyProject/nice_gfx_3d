@@ -1,0 +1,9 @@
+version: "0.1.0"
+description: "Three.js-inspired RGB565 model and animation renderer for ESP32-P4/S31"
+targets:
+  - esp32p4
+  - esp32s31
+dependencies:
+  idf:
+    version: ">=5.5.5"
+license: "Apache-2.0"

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+set(EXTRA_COMPONENT_DIRS "${CMAKE_CURRENT_LIST_DIR}/../.." "${CMAKE_CURRENT_LIST_DIR}/../../../nice_gfx")
+set(NICE_GFX_BUILD_PROFILE minimal CACHE STRING "NICE_GFX components")
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+project(nice_gfx_3d_cube)

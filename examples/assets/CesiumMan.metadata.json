@@ -1,0 +1,53 @@
+{
+  "name": "CesiumMan",
+  "repository": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+  "commit": "8f492390ddc7a2ae221a1369ef560589cf8c70fb",
+  "source": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/CesiumMan/glTF-Binary/CesiumMan.glb",
+  "originalSha256": "b7001eaeea8254bd44773bcd247e78696d94169388fbb2a1800fc69434e777d9",
+  "originalBytes": 438044,
+  "ng3dSha256": "ec7f2dbcfe7b584896c1b80873f4b31ddff36d8ebcf0c68b0d1b4ba440cb2747",
+  "ng3dBytes": 435740,
+  "vertices": 3273,
+  "indices": 14016,
+  "triangles": 4672,
+  "nodes": 22,
+  "primitives": 1,
+  "skins": 1,
+  "joints": [
+    19
+  ],
+  "clips": [
+    {
+      "name": "animation_0",
+      "duration": 2
+    }
+  ],
+  "bounds": {
+    "min": [
+      -0.5691369903896986,
+      -1.1791835386139441e-7,
+      -0.131000034284508
+    ],
+    "max": [
+      0.5691368596936505,
+      1.5065503260322888,
+      0.18095406218000282
+    ],
+    "center": [
+      -6.534802404756235e-8,
+      0.7532751040569674,
+      0.024977013947747415
+    ],
+    "radius": 0.9569060764062007
+  },
+  "changes": [
+    "Image 0: JPG converted to noninterlaced RGBA PNG; maximum edge 256px, aspect ratio preserved."
+  ],
+  "warnings": [
+    "Mipmapped texture samplers are reduced to nearest base-level sampling; mipmaps are not stored.",
+    "Texture filtering is compiled to nearest sampling; linear filtering is not implemented by this renderer.",
+    "Metallic and roughness factors are approximated using base color and simple runtime lighting."
+  ],
+  "animationPolicy": "All original skeletal animation channels and skin weights are retained. No animation was baked into frames or removed.",
+  "creationOnly": "Downloaded, adapted textures and converted assets. No C++ compilation, device test, or performance validation was run."
+}

@@ -1,0 +1,72 @@
+{
+  "repository": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+  "commit": "8f492390ddc7a2ae221a1369ef560589cf8c70fb",
+  "files": [
+    {
+      "path": "Models/Fox/glTF-Binary/Fox.glb",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/Fox/glTF-Binary/Fox.glb",
+      "bytes": 162852,
+      "sha256": "d97044e701822bac5a62696459b27d7b375aada5de8574ed4362edbba94771f7"
+    },
+    {
+      "path": "Models/Fox/README.md",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/Fox/README.md",
+      "bytes": 1782,
+      "sha256": "cf767a7943b12f3af0ea14a1b18947a45ed7a03c3e722678df33854d97df0f88"
+    },
+    {
+      "path": "Models/Fox/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/Fox/LICENSE.md",
+      "bytes": 1061,
+      "sha256": "9ddaa2edd6a8f72117eec9709d38cd7d284f61f77752d342c32c828e61f78eae"
+    },
+    {
+      "path": "Models/Fox/metadata.json",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/Fox/metadata.json",
+      "bytes": 1430,
+      "sha256": "1d888d832b5eb2a32a461ae6d5e2bc00f925e3a571c1447842466d2061800604"
+    },
+    {
+      "path": "Models/CesiumMan/glTF-Binary/CesiumMan.glb",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/CesiumMan/glTF-Binary/CesiumMan.glb",
+      "bytes": 438044,
+      "sha256": "b7001eaeea8254bd44773bcd247e78696d94169388fbb2a1800fc69434e777d9"
+    },
+    {
+      "path": "Models/CesiumMan/README.md",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/CesiumMan/README.md",
+      "bytes": 1146,
+      "sha256": "1bf7fa794013d2e0de8c244518936b04d95cba780f4510c8cceee4c23dbc04a8"
+    },
+    {
+      "path": "Models/CesiumMan/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/CesiumMan/LICENSE.md",
+      "bytes": 858,
+      "sha256": "709e02749c7c904c480d98f883cae63046f589031b5f22249544b13c159eedf6"
+    },
+    {
+      "path": "Models/CesiumMan/metadata.json",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/CesiumMan/metadata.json",
+      "bytes": 971,
+      "sha256": "635ca496eafa7b82639b3b90f65e35beb9d0ac0d8721e6425a9471f08a9cc603"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/LICENSES/CC-BY-4.0.txt",
+      "bytes": 13034,
+      "sha256": "c8041334a99cb48852b2139253cbde5f8ac87e27f124aed51223e0d5bf0080eb"
+    },
+    {
+      "path": "LICENSES/CC0-1.0.txt",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/LICENSES/CC0-1.0.txt",
+      "bytes": 6533,
+      "sha256": "a43fc2004d1e073f1107a1f6146664d08dae6cea93cb828742a4bec6da828e91"
+    },
+    {
+      "path": "LICENSES/LicenseRef-LegalMark-Cesium.txt",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/LICENSES/LicenseRef-LegalMark-Cesium.txt",
+      "bytes": 625,
+      "sha256": "7bafc8dbff0b9d04297bced53a47809e3ab6721cb35b4a2d780533476b28ebd4"
+    }
+  ]
+}

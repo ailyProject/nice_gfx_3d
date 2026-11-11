@@ -1,0 +1,17 @@
+{
+  "name": "@nice-gfx/3d",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "type": "module",
+  "description": "NICE_GFX_3D offline glTF compiler and model tools",
+  "exports": {
+    "./compiler": "./tools/compile-model.mjs",
+    "./storage": "./tools/model-storage.mjs",
+    "./closed-surfaces": "./tools/closed-surface-hints.mjs"
+  },
+  "bin": { "ng3d-compile": "./tools/compile-model.mjs" },
+  "scripts": {
+    "model:compile": "node tools/compile-model.mjs"
+  }
+}

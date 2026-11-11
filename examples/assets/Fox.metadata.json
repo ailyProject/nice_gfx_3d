@@ -1,0 +1,62 @@
+{
+  "name": "Fox",
+  "repository": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+  "commit": "8f492390ddc7a2ae221a1369ef560589cf8c70fb",
+  "source": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/Fox/glTF-Binary/Fox.glb",
+  "originalSha256": "d97044e701822bac5a62696459b27d7b375aada5de8574ed4362edbba94771f7",
+  "originalBytes": 162852,
+  "ng3dSha256": "976a60f36269eb806266bec44a1b8b31fe15b1f7c7733650b45358cb8149e653",
+  "ng3dBytes": 299624,
+  "vertices": 1728,
+  "indices": 1728,
+  "triangles": 576,
+  "nodes": 26,
+  "primitives": 1,
+  "skins": 1,
+  "joints": [
+    24
+  ],
+  "clips": [
+    {
+      "name": "Survey",
+      "duration": 3.4166667461395264
+    },
+    {
+      "name": "Walk",
+      "duration": 0.7083333134651184
+    },
+    {
+      "name": "Run",
+      "duration": 1.1583333015441895
+    }
+  ],
+  "bounds": {
+    "min": [
+      -12.592718762206038,
+      -0.12174418434110199,
+      -88.09500578699789
+    ],
+    "max": [
+      12.592717486586837,
+      78.90719764774781,
+      66.6248597776897
+    ],
+    "center": [
+      -6.378096006898204e-7,
+      39.392726731703355,
+      -10.735073004654097
+    ],
+    "radius": 87.7754473735348
+  },
+  "changes": [
+    "Image 0: PNG converted to noninterlaced RGBA PNG; maximum edge 256px, aspect ratio preserved."
+  ],
+  "warnings": [
+    "Mipmapped texture samplers are reduced to nearest base-level sampling; mipmaps are not stored.",
+    "Texture filtering is compiled to nearest sampling; linear filtering is not implemented by this renderer.",
+    "Metallic and roughness factors are approximated using base color and simple runtime lighting.",
+    "missing normals flattened; may increase vertices"
+  ],
+  "animationPolicy": "All original skeletal animation channels and skin weights are retained. No animation was baked into frames or removed.",
+  "creationOnly": "Downloaded, adapted textures and converted assets. No C++ compilation, device test, or performance validation was run."
+}

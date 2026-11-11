@@ -1,0 +1,204 @@
+{
+  "name": "RobotExpressive",
+  "creator": "Tomas Laulhe / Quaternius",
+  "modifications": "Don McCurdy",
+  "license": "CC0-1.0",
+  "sourceRepository": "https://github.com/mrdoob/three.js",
+  "sourceCommit": "b924f0cad4058dc4dde71445c796980c3cd5b5ed",
+  "original": {
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/b924f0cad4058dc4dde71445c796980c3cd5b5ed/examples/models/gltf/RobotExpressive/RobotExpressive.glb",
+    "file": "upstream/RobotExpressive/RobotExpressive.glb",
+    "bytes": 463988,
+    "sha256": "047f5e5fb3bb6d378bd1df16ca6137f2a596c99b3a1b5690b4020c05aaf6f319"
+  },
+  "originalReadme": {
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/b924f0cad4058dc4dde71445c796980c3cd5b5ed/examples/models/gltf/RobotExpressive/README.md",
+    "file": "upstream/RobotExpressive/README.upstream.md",
+    "bytes": 361,
+    "sha256": "84003fa9382ff8133ebc27988f35402c15e308fc50a56f1630988534de573d26"
+  },
+  "adaptation": {
+    "removedMorphTargets": 9,
+    "removedMeshDefaultWeights": 1,
+    "removedNodeDefaultWeights": 0,
+    "removedMorphChannels": 14,
+    "removedFacialOnlyClips": [],
+    "clips": [
+      {
+        "name": "Dance",
+        "originalChannels": 12,
+        "retainedBodyChannels": 11,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Death",
+        "originalChannels": 18,
+        "retainedBodyChannels": 17,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Idle",
+        "originalChannels": 7,
+        "retainedBodyChannels": 6,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Jump",
+        "originalChannels": 18,
+        "retainedBodyChannels": 17,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "No",
+        "originalChannels": 7,
+        "retainedBodyChannels": 6,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Punch",
+        "originalChannels": 15,
+        "retainedBodyChannels": 14,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Running",
+        "originalChannels": 18,
+        "retainedBodyChannels": 17,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Sitting",
+        "originalChannels": 10,
+        "retainedBodyChannels": 9,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Standing",
+        "originalChannels": 10,
+        "retainedBodyChannels": 9,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "ThumbsUp",
+        "originalChannels": 15,
+        "retainedBodyChannels": 14,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Walking",
+        "originalChannels": 20,
+        "retainedBodyChannels": 19,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "WalkJump",
+        "originalChannels": 18,
+        "retainedBodyChannels": 17,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Wave",
+        "originalChannels": 18,
+        "retainedBodyChannels": 17,
+        "removedMorphChannels": 1
+      },
+      {
+        "name": "Yes",
+        "originalChannels": 7,
+        "retainedBodyChannels": 6,
+        "removedMorphChannels": 1
+      }
+    ]
+  },
+  "clips": [
+    {
+      "name": "Dance",
+      "duration": 3.3333332538604736
+    },
+    {
+      "name": "Death",
+      "duration": 0.9583333134651184
+    },
+    {
+      "name": "Idle",
+      "duration": 3.3333332538604736
+    },
+    {
+      "name": "Jump",
+      "duration": 0.7083333134651184
+    },
+    {
+      "name": "No",
+      "duration": 1.6666666269302368
+    },
+    {
+      "name": "Punch",
+      "duration": 0.8333333134651184
+    },
+    {
+      "name": "Running",
+      "duration": 0.9583333134651184
+    },
+    {
+      "name": "Sitting",
+      "duration": 0.4166666567325592
+    },
+    {
+      "name": "Standing",
+      "duration": 0.4166666567325592
+    },
+    {
+      "name": "ThumbsUp",
+      "duration": 1.5833333730697632
+    },
+    {
+      "name": "Walking",
+      "duration": 0.9583333134651184
+    },
+    {
+      "name": "WalkJump",
+      "duration": 0.8333333134651184
+    },
+    {
+      "name": "Wave",
+      "duration": 1.8333333730697632
+    },
+    {
+      "name": "Yes",
+      "duration": 1.6666666269302368
+    }
+  ],
+  "warnings": [
+    "Metallic and roughness factors are approximated using base color and simple runtime lighting."
+  ],
+  "counts": {
+    "vertices": 7214,
+    "triangles": 3237,
+    "nodes": 74,
+    "skins": 2,
+    "jointsPerSkin": [
+      43,
+      43
+    ],
+    "maxPrimitiveVertices": 1344,
+    "rendererObjectCapacity": 98
+  },
+  "outputs": {
+    "bodyGlb": {
+      "file": "RobotExpressive.body.glb",
+      "bytes": 463012,
+      "sha256": "e2b4cfa74f6a32f12beee60df37d649e99a7382ccaee5a7a39a5b52e5cf37036"
+    },
+    "ng3d": {
+      "file": "RobotExpressive.ng3d",
+      "bytes": 450580,
+      "sha256": "6572653e5f92b17ce2c3f98f31a699a295b7135fb64cf47d138448df6a206a18"
+    }
+  },
+  "preparationStatus": {
+    "assetPrepared": true,
+    "firmwareCompiled": false,
+    "boardTested": false,
+    "rendererLoaded": false
+  }
+}
